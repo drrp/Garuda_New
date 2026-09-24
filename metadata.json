@@ -1,0 +1,6 @@
+{
+  "name": "AUCHITHYAM Paper Formatter",
+  "description": "An intelligent text formatting tool that cleans, structures, and styles your Telugu and English text according to academic standards using AI. It handles spacing, paragraphing, citations (MLA/APA), and font application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
